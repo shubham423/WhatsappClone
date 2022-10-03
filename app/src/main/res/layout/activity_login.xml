@@ -68,6 +68,7 @@
             android:imeOptions="actionUnspecified"
             android:inputType="phone"
             android:maxLines="1"
+            android:maxLength="10"
             android:singleLine="true"
             android:textSize="20sp" />
 
