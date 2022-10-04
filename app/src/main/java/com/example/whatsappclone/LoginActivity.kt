@@ -4,7 +4,6 @@ import android.content.Context
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.provider.SimPhonebookContract.SimRecords.PHONE_NUMBER
 import android.widget.Toast
 import androidx.core.widget.addTextChangedListener
 import com.example.whatsappclone.databinding.ActivityLoginBinding
