@@ -1,4 +1,4 @@
-package com.example.whatsappclone
+package com.example.whatsappclone.activities
 
 import android.Manifest
 import android.app.Activity
@@ -8,6 +8,8 @@ import android.net.Uri
 import android.os.Build
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.whatsappclone.R
+import com.example.whatsappclone.User
 import com.example.whatsappclone.databinding.ActivitySignUpBinding
 import com.google.android.gms.tasks.Continuation
 import com.google.android.gms.tasks.Task

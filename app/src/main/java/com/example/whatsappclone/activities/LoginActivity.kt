@@ -1,4 +1,4 @@
-package com.example.whatsappclone
+package com.example.whatsappclone.activities
 
 import android.content.Context
 import android.content.Intent

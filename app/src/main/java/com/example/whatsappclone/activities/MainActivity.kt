@@ -1,11 +1,12 @@
-package com.example.whatsappclone
+package com.example.whatsappclone.activities
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.whatsappclone.R
 
-class SplashActivity : AppCompatActivity() {
+class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_splash)
+        setContentView(R.layout.activity_main)
     }
 }
