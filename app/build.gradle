@@ -53,11 +53,13 @@ dependencies {
     implementation 'com.google.firebase:firebase-auth:21.0.8'
     implementation 'com.google.firebase:firebase-storage:20.0.2'
     implementation 'android.arch.paging:runtime:1.0.1'
-    implementation 'com.firebaseui:firebase-ui-firestore:6.2.1'
-    implementation 'com.firebaseui:firebase-ui-database:6.2.1'
+    implementation 'com.firebaseui:firebase-ui-firestore:8.0.2'
+    implementation 'com.firebaseui:firebase-ui-database:8.0.2'
 
     //emoji
     implementation 'com.vanniktech:emoji-google:0.6.0'
+
+    implementation 'com.google.android:flexbox:2.0.1'
 
     //image loading
     implementation 'com.squareup.picasso:picasso:2.71828'
